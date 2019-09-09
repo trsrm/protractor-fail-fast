@@ -19,7 +19,7 @@
     "protractor": ">= 4.0.4"
   },
   "dependencies": {
-    "jasmine-fail-fast": "~2.0.0"
+    "jasmine-fail-fast": "github:trsrm/jasmine-fail-fast#v2.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
